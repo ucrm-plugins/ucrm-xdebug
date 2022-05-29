@@ -1,0 +1,19 @@
+{
+    "name": "UISP 1.4.4",
+
+
+    "dockerComposeFile": "../docker-compose.yml",
+
+    "forwardPorts": [
+
+    ],
+    "postCreateCommand": "",
+
+    "extensions": [],
+
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash",
+        "php.validate.executablePath": "/usr/local/bin/php",
+        "editor.tabSize": 4
+    }
+}
