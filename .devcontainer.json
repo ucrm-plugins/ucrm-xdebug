@@ -1,4 +1,5 @@
 {
     "name": "UISP 1.4.4",
-    "dockerComposeFile": "docker-compose.yml"
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "unms"
 }
